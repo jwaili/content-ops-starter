@@ -62,7 +62,7 @@ sections:
       type: TitleBlock
     subtitle: >-
       Fourteen is a creator brand focused on building digital tools that help
-      you produce better content, faster.From faceless-video scripts to
+      you produce better content, faster. From faceless-video scripts to
       TikTok-ready puzzles and brand-aligned designs, everything is crafted to
       be simple, powerful, and immediately usable.
     items:
