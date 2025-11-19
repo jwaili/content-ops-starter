@@ -11,19 +11,7 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
-        {
-            "type": "Button",
-            "label": "Get started",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Sign up",
