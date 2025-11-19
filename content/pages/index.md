@@ -60,7 +60,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Fourteen is a creator brand focused on building digital tools that help
+      you produce better content, faster.From faceless-video scripts to
+      TikTok-ready puzzles and brand-aligned designs, everything is crafted to
+      be simple, powerful, and immediately usable.
     items:
       - type: FeaturedItem
         title: 500k
