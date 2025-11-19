@@ -37,7 +37,7 @@
         {
             "type": "Link",
             "label": "Portfolio",
-            "altText": "",
+            "altText": "portfolio",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
