@@ -52,14 +52,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-feature1.svg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
