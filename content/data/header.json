@@ -26,7 +26,7 @@
         {
             "type": "Link",
             "label": "Products",
-            "altText": "",
+            "altText": "products",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
